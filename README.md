@@ -1,4 +1,4 @@
- ##Pepper Disease Classification
+Pepper Disease Classification
 A deep learning project to classify images of pepper plants into healthy or diseased categories using TensorFlow and image processing techniques.
 
  ## Technologies Used
